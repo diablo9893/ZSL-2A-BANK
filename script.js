@@ -180,7 +180,7 @@ modal.addEventListener('click', function() {
 function login(){
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
-    if(username == "admin" && password == "1234"){
+    if(username == "09092022" && password == "Zsl2A"){
         location.href = "main.html";
     }
     else{
